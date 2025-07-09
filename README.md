@@ -29,14 +29,16 @@ BillPay Coin is on a mission to eliminate unnecessary charges in digital bill pa
 
 ## 🔐 Token Details
 
-- **Token Name**: BillPay Coin  
-- **Symbol**: BPC  
-- **Blockchain**: BNB Smart Chain (BEP-20)  
-- **Supply**: 100,000,000 (Fixed Supply)  
-- **Burnable**: Yes  
-- **Mintable**: No  
-- **Tax**: 0%  
-
+- Name: BillPay Coin
+- Symbol: BPC
+- Blockchain: Binance Smart Chain (BEP-20)
+- Total Supply: 100,000,000 BPC
+- Decimals: 18
+- Contract: 0xc790d30F8A19Db4dB2f64a98f8FA03E88820bbd2
+- Burnable: Yes
+- Mintable: No
+- Ownable: Yes
+- Fee: 0%
 ---
 
 ## 🤝 Contributing
