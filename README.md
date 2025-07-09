@@ -12,7 +12,7 @@ BillPay Coin is on a mission to eliminate unnecessary charges in digital bill pa
 
 ## 📄 Documents
 
-- 📘 [Whitepaper (v1.0)](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/ed3f98dfc38ef6ba6961d2aa94c1defa37bdf3bc/BillPay_Coin_Whitepaper_pdf.pdf)
+- 📘 [Whitepaper (v1.0)](https://drive.google.com/file/d/1CNd0_17lId4V5uCXkx-dV4ssEyGEzmgS/view?usp=drivesdk)
 - 📊 [Investor Pitch Deck](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/ed3f98dfc38ef6ba6961d2aa94c1defa37bdf3bc/BillPayCoin_Investor_PitchDeck%20(1)%5B1%5D.pdf)
 
 
@@ -22,7 +22,7 @@ BillPay Coin is on a mission to eliminate unnecessary charges in digital bill pa
 
 - 🌍 Website: [www.billpaycoin.org](https://www.billpaycoin.org)
 - 📢 Telegram: [t.me/BillPayCoinOfficial](https://t.me/BillPayCoinOfficial)
-- 🧾 Whitepaper: [Download PDF](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/ed3f98dfc38ef6ba6961d2aa94c1defa37bdf3bc/BillPay_Coin_Whitepaper_pdf.pdf)
+- 🧾 Whitepaper: [Download PDF](https://drive.google.com/file/d/1CNd0_17lId4V5uCXkx-dV4ssEyGEzmgS/view?usp=drivesdk)
 - 📧 Contact: [investor@billpaycoin.org](mailto:investor@billpaycoin.org)
 
 ---
