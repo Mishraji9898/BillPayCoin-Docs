@@ -21,7 +21,7 @@ BillPay Coin is on a mission to eliminate unnecessary charges in digital bill pa
 ## 🌐 Useful Links
 
 - 🌍 Website: [www.billpaycoin.org](https://www.billpaycoin.org)
-- 📢 Telegram: [t.me/BillPayCoinOfficial](https://t.me/BillPayCoinOfficial)
+- 📢 Telegram: [t.me/BillPayCoinOfficial](https://t.me/BillPayCoinCommunity)
 - 🧾 Whitepaper: [Download PDF](https://drive.google.com/file/d/1CNd0_17lId4V5uCXkx-dV4ssEyGEzmgS/view?usp=drivesdk)
 - 📧 Contact: [investor@billpaycoin.org](mailto:investor@billpaycoin.org)
 
