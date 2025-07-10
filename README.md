@@ -1,4 +1,4 @@
-# 💳 BillPayCoin-Docs
+# 🚀 BillPayCoin-Docs
 
 Welcome to the official documentation repository for **BillPay Coin (BPC)** – India’s first 0% fee digital token for credit card bill payments, recharges, EMIs, rent, and more.
 
@@ -6,45 +6,56 @@ Welcome to the official documentation repository for **BillPay Coin (BPC)** – 
 
 ## 🔥 What is BillPay Coin?
 
-BillPay Coin is on a mission to eliminate unnecessary charges in digital bill payments. Users can pay from any card to any account with **zero processing fees**, earn rewards, and enjoy full transparency via blockchain.
+**BillPay Coin** is on a mission to eliminate unnecessary charges in digital bill payments.  
+Users can pay from any card to any account with **zero processing fees**, earn rewards, and enjoy full transparency via blockchain.
 
 ---
 
 ## 📄 Documents
 
-- 📘 [Whitepaper (v1.0)](https://drive.google.com/file/d/1CNd0_17lId4V5uCXkx-dV4ssEyGEzmgS/view?usp=drivesdk)
-- 📊 [Investor Pitch Deck](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/ed3f98dfc38ef6ba6961d2aa94c1defa37bdf3bc/BillPayCoin_Investor_PitchDeck%20(1)%5B1%5D.pdf)
-
-
----
-
-## 🌐 Useful Links
-
-- 🌍 Website: [www.billpaycoin.org](https://www.billpaycoin.org)
-- 📢 Telegram: [t.me/BillPayCoinOfficial](https://t.me/BillPayCoinCommunity)
-- 🧾 Whitepaper: [Download PDF](https://drive.google.com/file/d/1CNd0_17lId4V5uCXkx-dV4ssEyGEzmgS/view?usp=drivesdk)
-- 📧 Contact: [investor@billpaycoin.org](mailto:investor@billpaycoin.org)
+- [📘 Whitepaper (v1.0)](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/main/BillPay_Coin_Whitepaper_pdf.pdf)
+- [📊 Investor Pitch Deck](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/main/BillPay_Coin_Investor_PitchDeck_(1)(1).pdf)
 
 ---
 
-## 🔐 Token Details
+## 🔗 Useful Links
 
-- Name: BillPay Coin
-- Symbol: BPC
-- Blockchain: Binance Smart Chain (BEP-20)
-- Total Supply: 100,000,000 BPC
-- Decimals: 18
-- Contract: 0xc790d30F8A19Db4dB2f64a98f8FA03E88820bbd2
-- Burnable: Yes
-- Mintable: No
-- Ownable: Yes
-- Fee: 0%
----
-
-## 🤝 Contributing
-
-Want to help us improve or add documents? Raise a pull request or contact the team.
+- 🌐 Website: [www.billpaycoin.org](https://billpaycoin.org)
+- 📢 Telegram: [Join Community](https://t.me/BillPayCoinCommunity)
+- 🐦 X (Twitter): [@BillPayCoin](https://x.com/BillPayCoin)
+- 💻 GitHub: [Mishraji9898](https://github.com/Mishraji9898)
+- 📘 Facebook: [BillPayCoin](https://www.facebook.com/share/1YLrWSsoJu/)
+- 💼 LinkedIn: [Nilesh Mishra](https://www.linkedin.com/in/nilesh-mishra-a49443373/)
+- ✉️ Contact: [investor@billpaycoin.org](mailto:investor@billpaycoin.org)
 
 ---
 
-> © 2025 BillPay Coin | Powered by community trust
+## 📊 Token Details
+
+- **Token Name:** BillPay Coin  
+- **Symbol:** BPC  
+- **Blockchain:** BNB Smart Chain (BEP-20)  
+- **Total Supply:** 100,000,000 BPC (Fixed Supply)  
+- **Burnable:** Yes  
+- **Mintable:** No  
+- **Tax:** 0%
+
+---
+
+## 👨‍💼 Team
+
+**Founder:** Nilesh Mishra  
+A solo founder from Surat, India 🇮🇳 – building Web3 solutions for financial freedom.  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nilesh-mishra-a49443373/)
+
+---
+
+## ⚠️ Disclaimer
+
+BillPay Coin (BPC) is an independent, community-driven DeFi token project.  
+We are not affiliated with any government, bank, or financial institution.
+
+---
+
+© 2025 BillPay Coin | Built with 💙 for community trust.
+
