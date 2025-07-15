@@ -14,7 +14,7 @@ Users can pay from any card to any account with **zero processing fees**, earn r
 ## 📄 Documents
 
 - [📘 Whitepaper (v1.0)](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/main/BillPay_Coin_Whitepaper_.pdf)
-- [📊 Investor Pitch Deck](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/main/Investor%20Ptich%20Deck%2001.pdf)
+- [📊 Investor Pitch Deck](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/main/Investor%20Ptich%20Deck.pdf)
 - [📈 Tokenomics PieChart](https://github.com/Mishraji9898/BillPayCoin-Docs/blob/main/BPC_Tokenomics_PieChart%20(1).pdf).
 ---
 
